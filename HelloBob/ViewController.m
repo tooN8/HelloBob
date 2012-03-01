@@ -20,6 +20,8 @@
 
 - (void)viewDidLoad
 {
+    
+    NSLog(@"WAS LABERSCH DU?");
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 }
