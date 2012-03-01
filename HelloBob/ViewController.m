@@ -23,6 +23,7 @@
     
     NSLog(@"WAS LABERSCH DU?");
     [super viewDidLoad];
+    NSLog(@"Hallo Bobby");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
